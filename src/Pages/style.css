@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #222831;
+  font-family: "Raleway", sans-serif;
+}
+
+.custom-btn {
+  width: 150px;
+  height: 40px;
+  background-color: #f96d00;
+  border: none;
+  border-radius: 6px;
+  transition: box-shadow 0.3s;
+}
+
+.custom-btn:hover {
+  box-shadow: 0 0 10px #f96d00;
+}
