@@ -4,7 +4,7 @@ import Registration from "./Pages/Registration";
 import Login from "./Pages/Login";
 import Home from "./Pages/Home";
 import "./App.css";
-git
+
 const App = () => {
   return (
     <div className="App">
